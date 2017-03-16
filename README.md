@@ -1,5 +1,7 @@
 # talks
 
+[![Join the chat at https://gitter.im/fullstackporto/talks](https://badges.gitter.im/fullstackporto/talks.svg)](https://gitter.im/fullstackporto/talks?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is the place to submit talks for Fullstack Porto meetups.
 
 ## How to submit
