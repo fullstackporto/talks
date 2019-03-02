@@ -11,3 +11,7 @@ This is the place to submit talks for Fullstack Porto meetups.
 ## Share your slides!
 
 It would be awesome if you decide to share your slides with us. If you decide to do so, please make a pull request to this repo with a folder containing all relevant assets.
+
+# Social media
+* [Meetup.com/Fullstack-Porto](https://www.meetup.com/Fullstack-Porto/)
+* [Twitter@fullstackporto](https://twitter.com/fullstackporto). Hashtag #fullstackporto
